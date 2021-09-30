@@ -78,3 +78,4 @@ def solution(car):
             break
 
     return controls, times
+
